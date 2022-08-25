@@ -17,8 +17,8 @@ You can click the Preview link to take a look at your changes.
   <div>
   <p align=center>⚙️ &nbsp;GitHub Analytics</p>
   <p align="center">
-  <img width="51%" src="https://github-readme-stats.vercel.app/api?username=netohost&show_icons=true&count_private=true&hide_border=true&title_color=F73BE0&icon_color=F73BE0&text_color=c9d1d9&bg_color=0d1117" alt="João Neto's github stats" /> 
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=netohost&layout=compact&hide_border=true&title_color=F73BE0&text_color=00ff00&bg_color=0d1117" />
+  <img width="51%" src="https://github-readme-stats.vercel.app/api?username=netohost&show_icons=true&count_private=true&hide_border=true&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9&bg_color=00ff00" alt="João Neto's github stats" /> 
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=netohost&layout=compact&hide_border=true&title_color=F73BE0&text_color=00ff00&bg_color=00ff00" />
   </p>
   </div>
 
