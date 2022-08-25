@@ -13,5 +13,13 @@
 netohost/netohost is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+  
+  <div>
+  <p align=center>⚙️ &nbsp;GitHub Analytics</p>
+  <p align="center">
+  <img width="51%" src="https://github-readme-stats.vercel.app/api?username=yasminalves16&show_icons=true&count_private=true&hide_border=true&title_color=F73BE0&icon_color=F73BE0&text_color=c9d1d9&bg_color=0d1117" alt="Yasmin Alves github stats" /> 
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasminalves16&layout=compact&hide_border=true&title_color=F73BE0&text_color=F73BE0&bg_color=0d1117" />
+  </p>
+  </div>
 
 ![snake gif](https://github.com/netohost/netohost/blob/output/github-contribution-grid-snake.svg)
