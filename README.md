@@ -1,3 +1,8 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F73BE0&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+João+Neto;+:%29)](https://git.io/typing-svg)
+
+
+  <p>
+
 - 👋 Hi, I’m @netohost
 - 👀 I’m interested in python, java, c#, html, css and everything i need to learn!
 - 🌱 I’m currently learning all the lenguages mentioned ahead.
